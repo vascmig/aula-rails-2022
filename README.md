@@ -7,6 +7,7 @@
 
 ### Descrição: Novo jupyterweb, mais eficiente e mais fácil de usar.
 
+Link: https://aula-rails-2022.herokuapp.com/
 
 #### Membros:
 - Daniel Cordeiro
