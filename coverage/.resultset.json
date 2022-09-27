@@ -1,6 +1,35 @@
 {
   "RSpec": {
     "coverage": {
+      "/home/ubuntu/environment/sunweb/app/helpers/alunos_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/ubuntu/environment/sunweb/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/ubuntu/environment/sunweb/app/models/aluno.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/ubuntu/environment/sunweb/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/home/ubuntu/environment/sunweb/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
@@ -21,15 +50,38 @@
         "branches": {
         }
       },
-      "/home/ubuntu/environment/sunweb/app/controllers/application_controller.rb": {
+      "/home/ubuntu/environment/sunweb/app/controllers/alunos_controller.rb": {
         "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
           0,
           0
         ],
         "branches": {
         }
       },
-      "/home/ubuntu/environment/sunweb/app/helpers/application_helper.rb": {
+      "/home/ubuntu/environment/sunweb/app/controllers/application_controller.rb": {
         "lines": [
           0,
           0
@@ -59,21 +111,76 @@
         ],
         "branches": {
         }
-      },
-      "/home/ubuntu/environment/sunweb/app/models/application_record.rb": {
-        "lines": [
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1664312437
+    "timestamp": 1664314573
   },
   "Cucumber Features": {
     "coverage": {
+      "/home/ubuntu/environment/sunweb/app/controllers/alunos_controller.rb": {
+        "lines": [
+          1,
+          1,
+          4,
+          null,
+          1,
+          4,
+          null,
+          4,
+          1,
+          null,
+          3,
+          3,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          4,
+          null,
+          null
+        ]
+      },
+      "/home/ubuntu/environment/sunweb/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/ubuntu/environment/sunweb/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/ubuntu/environment/sunweb/app/helpers/alunos_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/ubuntu/environment/sunweb/app/models/aluno.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/ubuntu/environment/sunweb/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/home/ubuntu/environment/sunweb/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
@@ -88,22 +195,6 @@
         "lines": [
           0,
           0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/home/ubuntu/environment/sunweb/app/controllers/application_controller.rb": {
-        "lines": [
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/home/ubuntu/environment/sunweb/app/helpers/application_helper.rb": {
-        "lines": [
           0,
           0
         ],
@@ -132,17 +223,8 @@
         ],
         "branches": {
         }
-      },
-      "/home/ubuntu/environment/sunweb/app/models/application_record.rb": {
-        "lines": [
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1664312443
+    "timestamp": 1664314567
   }
 }
